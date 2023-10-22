@@ -1,5 +1,5 @@
 # Pengontrolan Tersistem : Chimera Remote Control Dekstop
-=========================================================
+
 Repositori ini berisikan Materi & kebutuhan eksperimen dalam program kegiatan Pengembangan Keprofesian Berkelanjutan (PKB) bagi guru dan tenaga kependidikan provinsi SUMUT.
 Setiap program dalam repositori ini sudah di-update agar dapat berjalan dengan semestinya, termasuk program Chimera Remote Control Dekstop.
 Sekilas mengenai materi pada pelatihan ini antara lain :
